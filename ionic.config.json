@@ -1,0 +1,7 @@
+{
+  "name": "planningPoker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
